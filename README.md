@@ -1,4 +1,4 @@
-# Life Resume – Behavioral Personality Portfolio
+# Code DNA – Behavioral Personality Portfolio
 
 Life Resume analyzes GitHub behavioral signals and builds a personality intelligence profile. It combines data ingestion, feature engineering, personality inference, and a dashboard with a downloadable PDF report.
 
